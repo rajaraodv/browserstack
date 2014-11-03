@@ -1,0 +1,26 @@
+{
+  "name": "browserstack",
+  "version": "1.0.0",
+  "description": "browserstack test",
+  "main": "app.js",
+  "dependencies": {
+    "browserstack-webdriver": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajaraodv/browserstack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajaraodv/browserstack/issues"
+  },
+   "devDependencies": {
+   "browserstack-webdriver": "*"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+
+  "homepage": "https://github.com/rajaraodv/browserstack"
+}
